@@ -3,6 +3,8 @@ package com.hfad.chapter10stopwatch
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.SystemClock
+import android.widget.Button
+import android.widget.Chronometer
 import com.hfad.chapter10stopwatch.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
