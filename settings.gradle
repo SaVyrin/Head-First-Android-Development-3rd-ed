@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "MyHeadFirstAndroidDevelopment3rdedition"
+include ':Chapter01.MyFirstApp'
+include ':Chapter02.BeerAdviser'
+include ':Chapter03.FrameLayout'
+include ':Chapter03.LinearLayout'
+include ':Chapter03.ScrollView'
+include ':Chapter04.MyConstraintLayout'
+include ':Chapter05.Stopwatch'
+include ':Chapter06-07.SecretMessage'
+include ':Chapter08.CatChat'
+include ':Chapter09.BitsAndPizzas'

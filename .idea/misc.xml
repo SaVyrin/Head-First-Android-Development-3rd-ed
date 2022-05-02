@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/proto/AndroidStudioProjects/MyHeadFirstAndroidDevelopment3rdedition/Chapter09.BitsAndPizzas/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/proto/AndroidStudioProjects/MyHeadFirstAndroidDevelopment3rdedition/Chapter10.Stopwatch/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/proto/AndroidStudioProjects/MyHeadFirstAndroidDevelopment3rdedition/Chapter10Stopwatch/src/main/res/layout/activity_main.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/proto/AndroidStudioProjects/MyHeadFirstAndroidDevelopment3rdedition/Chapter3/LinearLayout/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
