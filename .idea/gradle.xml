@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/Chapter10.BitsAndPizzas" />
             <option value="$PROJECT_DIR$/Chapter10.Stopwatch" />
             <option value="$PROJECT_DIR$/Chapter11.GuessingGame" />
+            <option value="$PROJECT_DIR$/Chapter12.GuessingGame" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
