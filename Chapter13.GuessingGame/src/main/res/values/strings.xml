@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter13GuessingGame</string>
+    <string name="guess_text">Guess a letter</string>
+    <string name="guess_button">Guess!</string>
+    <string name="new_game_button">Start new game</string>
+    <string name="lives_left">You have %d lives left</string>
+    <string name="incorrect_guesses">Incorrect guesses: %s</string>
+    <string name="finish_game_button">Finish game</string>
+</resources>
