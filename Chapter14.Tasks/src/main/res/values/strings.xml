@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chapter14.Tasks</string>
+    <string name="task_name_hint">Enter a task name</string>
+    <string name="save_button_text">Save task</string>
+</resources>
