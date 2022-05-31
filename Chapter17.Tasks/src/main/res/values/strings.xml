@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chapter17.Tasks</string>
+    <string name="task_name_hint">Enter a task name</string>
+    <string name="save_button_text">Save task</string>
+    <string name="task_done_label">Done?</string>
+    <string name="update_task">Update task</string>
+    <string name="delete_task">Delete task</string>
+</resources>
